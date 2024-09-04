@@ -44,7 +44,7 @@ Septiembre del 2023
 
 | Versión |   Fecha    |                                                                                       Autor                                                                                        | Descripción de modificación                                                                                                                                           |
 | :-----: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   TB1   | 28/08/2024 | Checa Apolinario, Paolo Sebastián <br><br> Moreno Vergara, Johan Raúl <br><br> Onofre Ruiz, Carlos Jesus <br><br>  --| Se realizaron los capítulos: Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification y Capítulo IV: Solution Software Design |
+|   TB1   | 28/08/2024 | Checa Apolinario, Paolo Sebastián <br><br> Moreno Vergara, Johan Raúl <br><br> Onofre Ruiz, Carlos Jesus <br><br>  Futuri Illa, Wilfredo| Se realizaron los capítulos: Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification y Capítulo IV: Solution Software Design |
 
 <br><br>
 
@@ -162,8 +162,8 @@ Septiembre del 2023
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | :------------------: | :-----------------: | :----------: |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Carlos Jesus Onofre Ruiz TB1: En las reuniones del proyecto, presenté y discutí el propósito del diseño a nivel estratégico, centrándome en cómo las entradas clave, como las historias de usuario, los escenarios de atributos de calidad y las restricciones, influyen en nuestras decisiones. | |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Carlos Jesus Onofre Ruiz TB1: Documenté de manera detallada y accesible todo el proceso de diseño estratégico, desde la definición del propósito hasta los refinamientos de los escenarios de atributos de calidad. Los reportes incluyeron explicaciones claras sobre cómo las historias de usuario y las restricciones guiaron nuestras decisiones arquitectónicas. | |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Carlos Jesus Onofre Ruiz** <br> **TB1** <br> En las reuniones del proyecto, presenté y discutí el propósito del diseño a nivel estratégico, centrándome en cómo las entradas clave, como las historias de usuario, los escenarios de atributos de calidad y las restricciones, influyen en nuestras decisiones. | |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Carlos Jesus Onofre Ruiz** <br> **TB1** <br> Documenté de manera detallada y accesible todo el proceso de diseño estratégico, desde la definición del propósito hasta los refinamientos de los escenarios de atributos de calidad. Los reportes incluyeron explicaciones claras sobre cómo las historias de usuario y las restricciones guiaron nuestras decisiones arquitectónicas. | |
 
 # Capítulo I: Introducción
 
@@ -171,6 +171,13 @@ Septiembre del 2023
 
 ### 1.1.1. Description de la StartUp
 
+AgroTech Innovators es una startup enfocada en revolucionar la forma en que los agricultores y aficionados acceden y utilizan la tecnología para mejorar sus prácticas agrícolas. Nuestro objetivo es ofrecer una plataforma integral que combine la monitorización avanzada de cultivos mediante sensores IoT, proporcionando a los usuarios datos en tiempo real sobre variables críticas como humedad, luz, temperatura, y más. Además, incluimos un chatbot inteligente que puede responder a preguntas específicas de los usuarios, facilitando la toma de decisiones y optimizando los procesos de cultivo.
+
+- **Visión:** Aspiramos a ser líderes en la integración de la tecnología y la agricultura, promoviendo prácticas agrícolas más inteligentes, sostenibles y accesibles para todos, tanto en entornos rurales como urbanos.
+
+<br>
+
+- **Misión:** Nuestra misión es empoderar a los agricultores y aficionados con herramientas tecnológicas avanzadas, ofreciéndoles una plataforma que combine monitoreo en tiempo real, inteligencia artificial, y educación continua para optimizar la producción agrícola y fomentar la innovación en el sector.
 
 
 
