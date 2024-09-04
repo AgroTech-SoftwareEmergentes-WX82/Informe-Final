@@ -446,6 +446,11 @@ En esta sección, se presentarán hipótesis que ofrecen soluciones a las proble
 
 ## 1.3. Segmentos objetivos
 
+| Tipo de Usuario | Principiantes en la agricultura | Expertos en la agricultura |
+| :-------------: | :------------------------------: | :-------------------------: |
+| Geográfico | País: Perú <br> Zona residencial: No es relevante, ya que pueden ser de diferentes zonas del país. | País: Perú <br> Zona residencial: No es relevante, ya que pueden ser de diferentes zonas del país. |
+| Psicográfico | Clase Social: Principalmente de clase media a clase media alta, interesados en aprovechar tecnologías accesibles para mejorar sus cultivos. <br> Estilo de Vida: Personas interesadas en la agricultura y sostenibilidad, que buscan aprender a utilizar tecnologías IoT para mejorar sus cultivos, pero carecen del conocimiento técnico necesario para comenzar por su cuenta. | Clase Social: Desde clase media hasta clase alta, con recursos para invertir en tecnologías avanzadas. <br> Estilo de Vida: Agricultores con experiencia que buscan optimizar sus procesos de cultivo mediante herramientas IoT. |
+| Demográfico | Edad: Personas mayores de 18 años. <br> Nivel de Ingreso: Varía según la capacidad de inversión en tecnologías IoT, desde ingresos medios a altos. <br> Nacionalidad: Principalmente peruanos; extranjeros pueden acceder al servicio con identificación válida, como pasaporte. | Edad: Preferiblemente mayores de 30 años. <br> Nivel de Ingreso: Ingresos medios a altos, con capacidad para invertir en tecnología avanzada. <br> Nacionalidad: Principalmente peruanos; extranjeros deben identificarse con pasaporte. <br> Estudios: Secundaria completa o estudios superiores, idealmente con formación en agricultura o tecnología.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
