@@ -324,35 +324,35 @@ Nuestro servicio generará ingresos mediante la venta y suscripción a dispositi
 
 ### 1.2.1. Antecedentes y problemática
 
-
+Para este segmento, haremos uso de la técnica 5W y 2H, que nos permitirá identificar los aspectos más importantes con respecto a nuestro proyecto.
 
 - **Who**
 
-
+Nuestros usuarios son agricultores, tanto principiantes como expertos, que buscan utilizar tecnología avanzada para mejorar sus prácticas agrícolas, ya sea en entornos urbanos o rurales.
 
 - **What**
 
-
+El principal reto que enfrentan nuestros usuarios es la dificultad para monitorear y optimizar las condiciones de sus cultivos en tiempo real, lo que puede llevar a una disminución en la eficiencia y en la producción agrícola.
 
 - **Where**
 
-
+Este problema es común en diversas regiones, especialmente en aquellas donde los agricultores no tienen acceso a tecnologías avanzadas o a información precisa para la gestión de sus cultivos.
 
 - **When**
 
-
+La problemática se presenta cada vez que los usuarios intentan manejar sus cultivos sin el apoyo de datos en tiempo real, lo que resulta en decisiones menos informadas y potencialmente menos efectivas.
 
 - **Why**
 
-
+Los usuarios suelen enfrentar desafíos al no contar con herramientas que les permitan monitorear las condiciones de sus cultivos de manera continua y precisa, lo que puede resultar en un manejo poco óptimo de los recursos y en la disminución de la productividad.
 
 - **How**
 
-
+Para solucionar este problema, hemos desarrollado una aplicación en la que se mostrará un dashboard que se conecta a dispositivos IoT, permitiendo a los usuarios monitorizar en tiempo real variables críticas como humedad y luz, y tomar decisiones basadas en datos precisos. Además, un chatbot con inteligencia artificial está disponible para responder preguntas y proporcionar recomendaciones.
 
 - **How much**
 
-
+La inversión inicial en dispositivos IoT es una consideración importante para los usuarios, sin embargo, los beneficios de una gestión más precisa y optimizada de los cultivos pueden compensar esta inversión a largo plazo mediante un aumento en la eficiencia y productividad.
 
 <br>
 
