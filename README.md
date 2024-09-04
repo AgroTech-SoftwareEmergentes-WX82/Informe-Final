@@ -313,10 +313,14 @@ AgroTech Innovators es una startup enfocada en revolucionar la forma en que los 
 ## 1.2. Solution Profile
 
 **Nombre del Producto:** 
+Nuestro servicio se denomina “AgroTech” ya que hacemos referencia al crecimiento tanto de los cultivos que nuestros usuarios utilizarán en sus proyectos caseros, como al desarrollo personal que experimentarán al adquirir nuevos conocimientos y perfeccionar sus habilidades en el ámbito agrícola junto a nosotros.<br>
 
-**Descripción del Producto:** 
+**Descripción del Producto:**
+Ofrecemos un servicio innovador que permite a los usuarios gestionar y optimizar sus cultivos de manera sencilla y eficiente utilizando tecnología avanzada. A través de nuestra plataforma, los usuarios pueden monitorizar en tiempo real las condiciones de sus cultivos mediante dispositivos IoT, recibiendo datos sobre variables clave como humedad, luz y temperatura. Además, nuestra aplicación incluye un chatbot inteligente que responde a preguntas y proporciona recomendaciones personalizadas, facilitando el manejo de los cultivos desde un nivel básico hasta un nivel experto.<br>
 
-**Monetización:** 
+**Monetización:**
+Nuestro servicio generará ingresos mediante la venta y suscripción a dispositivos IoT, que permitirán a los usuarios monitorizar y mejorar sus cultivos. Además, nuestros servicios funcionan de manera continua durante todo el día para garantizar que los usuarios puedan monitorear y continuar sus proyectos en cualquier momento. Esta combinación de productos y servicios garantiza un flujo constante de ingresos, al mismo tiempo que proporciona un valor añadido a nuestros usuarios.
+
 
 ### 1.2.1. Antecedentes y problemática
 
