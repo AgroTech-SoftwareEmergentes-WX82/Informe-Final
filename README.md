@@ -499,15 +499,32 @@ En esta sección, resumimos las decisiones de diseño tomadas durante el Quality
 
 En esta sección, se presentan los escenarios refinados para los atributos de calidad más relevantes, tras el proceso de Quality Attribute Workshop. Cada escenario ha sido priorizado en función de su impacto en el sistema y su alineación con los objetivos del negocio. A continuación, se detalla cada escenario con su estructura refinada.
 
-| Scenario Refinement for Scenario 1 |
-|------------------------------------|
-| **Scenario(s):**                   | Actualización Automática de Datos IoT |
+| Scenario Refinement for Scenario 1 | |
+|------------------------------------|-|
+| **Scenario(s):** | Actualización Automática de Datos IoT |
 | **Business Goals:**                | Asegurar que los datos de cultivos en el dashboard se actualicen en tiempo real para proporcionar información precisa y actualizada. |
 | **Relevant Quality Attributes:**   | Monitoreo en Tiempo Real, Escalabilidad |
 | **Scenario Components**            | **Stimulus:** Actualización de nuevos datos de sensores IoT.<br>**Stimulus Source:** Sistema IoT.<br>**Environment:** Dashboard de la aplicación mientras el usuario está activo.<br>**Artifact (if Known):** Interfaz de usuario del dashboard.<br>**Response:** El dashboard se actualiza automáticamente para reflejar los datos más recientes.<br>**Response Measure:** Tiempo de actualización de datos no superior a 5 segundos. |
 | **Questions:**                     | ¿Cómo se maneja la carga de datos cuando hay un alto volumen de actualizaciones simultáneas?<br>¿Qué mecanismos se implementan para garantizar la consistencia de datos durante la actualización? |
 | **Issues:**                        | La latencia en la actualización puede afectar la experiencia del usuario si los datos no se reflejan en tiempo real. |
 
+| Scenario Refinement for Scenario 2 | |
+|------------------------------------|-|
+| **Scenario(s):** | Seguridad de Datos Personales y de Cultivos |
+| **Business Goals:**                | Proteger los datos personales y los datos de cultivos de accesos no autorizados para mantener la confidencialidad y la integridad de la información. |
+| **Relevant Quality Attributes:**   | Seguridad de Datos |
+| **Scenario Components**            | **Stimulus:** Intentos de acceso no autorizado a datos personales o de cultivos.<br>**Stimulus Source:** Usuario no autenticado o sistema externo.<br>**Environment:** Sistema de almacenamiento de datos y mecanismos de autenticación.<br>**Artifact (if Known):** Base de datos y sistema de autenticación.<br>**Response:** El sistema bloquea el acceso y notifica al administrador sobre el intento de acceso no autorizado.<br>**Response Measure:** El tiempo de respuesta al intento de acceso no autorizado debe ser menor a 2 segundos. |
+| **Questions:**                     | ¿Qué medidas de seguridad se implementan para prevenir accesos no autorizados?<br>¿Cómo se gestionan y responden las brechas de seguridad detectadas? |
+| **Issues:**                        | La necesidad de equilibrar la seguridad con el rendimiento del sistema para evitar impactos negativos en la experiencia del usuario. |
+
+| Scenario Refinement for Scenario 3 | |
+|------------------------------------|-|
+| **Scenario(s):** | Consulta de Asesoría |
+| **Business Goals:**                | Proporcionar asistencia instantánea a los usuarios a través de un chatbot. |
+| **Relevant Quality Attributes:**   | Consulta de Asesoría |
+| **Scenario Components**            | **Stimulus:** Consulta realizada por un usuario al chatbot.<br>**Stimulus Source:** Usuario registrado.<br>**Environment:** Interfaz del chatbot.<br>**Artifact (if Known):** Sistema de chatbot.<br>**Response:** El chatbot debe responder a la consulta del usuario de manera precisa y oportuna.<br>**Response Measure:** El tiempo de respuesta del chatbot debe ser inferior a 5 segundos y la precisión de las respuestas superior al 90%.|
+| **Questions:**                     | ¿Cómo se garantiza que el chatbot proporcione respuestas precisas?<br>¿Qué mecanismos se utilizan para mejorar la interacción del usuario con el chatbot? |
+| **Issues:**                        | La necesidad de mantener la calidad de las respuestas mientras se maneja un alto volumen de consultas. |
 
 ## 4.2. Strategic-Level Domain-Driven Design
 
