@@ -360,20 +360,88 @@ La inversión inicial en dispositivos IoT es una consideración importante para 
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+El monitoreo en tiempo real mediante sensores IoT y la toma de decisiones basada en datos pueden reducir significativamente el desperdicio de recursos y mejorar los rendimientos. Sin embargo, muchos agricultores y aficionados encuentran desafíos al intentar integrar estas tecnologías en sus prácticas diarias debido a la falta de acceso a herramientas adecuadas y a la información técnica necesaria. La carencia de una plataforma centralizada que ofrezca tanto monitoreo en tiempo real como soporte educativo personalizado puede resultar en una curva de aprendizaje prolongada y en decisiones menos eficaces.
 
+Por lo tanto, como startup, nuestro objetivo es abordar la siguiente cuestión: ¿Cómo podemos aplicar nuestro conocimiento en tecnología IoT y en inteligencia artificial para desarrollar un servicio innovador que proporcione a los agricultores los datos en tiempo real necesarios para optimizar sus cultivos?
 
 #### 1.2.2.2. Lean UX Assumptions
 
+**Business outcomes:**
+
+- Los usuarios están interesados en utilizar tecnología avanzada, como dispositivos IoT, para mejorar la eficiencia de sus cultivos.
+- Los usuarios desean acceder a datos en tiempo real sobre sus cultivos para tomar decisiones informadas.
+- Los usuarios buscan una interfaz intuitiva y fácil de usar para monitorizar y analizar las condiciones de sus cultivos.
+- Los usuarios necesitan poder visualizar y entender los datos de manera clara y precisa para - optimizar sus prácticas agrícolas.
+- La aplicación debe ser compatible y funcionar correctamente en los navegadores y dispositivos actuales.
+
+**User assumptions:**
+
+**¿Quién es el usuario?**
+Los usuarios interesados en nuestro servicio son agricultores, tanto principiantes como expertos, que buscan utilizar tecnología IoT para optimizar sus cultivos. Estos usuarios incluyen a personas que desean mejorar la eficiencia de su producción agrícola y a aquellos que buscan adoptar prácticas más sostenibles.
+
+**¿Dónde encaja nuestro producto en su vida o trabajo?**
+Nuestra aplicación se integra en la rutina diaria de los agricultores, permitiéndoles monitorear y gestionar sus cultivos de manera continua. Puede comenzar como una herramienta de apoyo y evolucionar hacia una parte esencial de su proceso de cultivo.
+
+**¿Qué problema aborda nuestro producto? ¿Cómo se soluciona?**
+El producto aborda la dificultad para monitorizar y gestionar eficientemente los cultivos en tiempo real. Lo resolvemos proporcionando una plataforma que conecta sensores IoT con un dashboard que permite a los usuarios ver y analizar datos críticos como humedad y luz. Además, ofrecemos un chatbot inteligente que proporciona recomendaciones y resuelve dudas.
+
+**¿Cuándo y cómo se utiliza nuestro producto?**
+Nuestro producto está diseñado para ser utilizado de forma continua a lo largo del ciclo de cultivo, permitiendo a los usuarios acceder a datos en tiempo real en cualquier momento. Los usuarios pueden utilizar el dashboard para ajustar las condiciones de sus cultivos y el chatbot para recibir asistencia inmediata.
+
+**¿Qué características son importantes?**
+Las características clave incluyen la capacidad de monitorizar variables críticas en tiempo real, la integración con dispositivos IoT, y el acceso a un chatbot inteligente para soporte y recomendaciones.
+
+**¿Cómo debe verse y comportarse nuestro producto?**
+Es esencial que nuestro producto sea fácil de usar, con una interfaz intuitiva que permita a los usuarios acceder rápidamente a los datos y análisis que necesitan. Debe ser confiable, eficiente y proporcionar una experiencia de usuario sin interrupciones.
+
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+En esta sección, se presentarán hipótesis que ofrecen soluciones a las problemáticas mencionadas anteriormente dentro de nuestra aplicación. Estas hipótesis serán específicas y estarán acompañadas de métricas que permitirán evaluar el éxito de manera objetiva. Las métricas empleadas se basan en promedios generales de aplicaciones existentes.
 
+- ​​Creemos que nuestra aplicación será una herramienta valiosa para los agricultores que buscan mejorar la eficiencia de sus cultivos mediante tecnología IoT. Sabremos que hemos tenido éxito cuando más del 75% de las reseñas de los usuarios sean positivas.
+    **Métricas:**
+    1. Número de reseñas mensuales
+        - Métrica actual: 25
+        - Métrica deseada: 55
+    2. Calificación promedio de los cursos
+        - Métrica actual: 3.5
+        - Métrica deseada: 4.9
+
+<br>
+
+- Creemos que la integración de dispositivos IoT para el monitoreo en tiempo real será crucial para la optimización de los cultivos. Sabremos que hemos tenido éxito cuando más del 80% de los usuarios utilicen esta función regularmente.
+    ​**​Métricas:**
+    1. Satisfacción con el chatbot
+        - Métrica actual: 70%
+        - Métrica deseada: 90%
+    2. Número de interacciones con el chatbot
+        - Métrica actual: 50 por mes
+        - Métrica deseada: 150 por mes
+
+<br>
+
+- Creemos que nuestro chatbot impulsado por IA será un recurso clave para resolver dudas y ofrecer recomendaciones en tiempo real. Sabremos que hemos tenido éxito cuando más del 85% de los usuarios reporten que el chatbot ha sido útil.
+    **Métricas:**
+    1. Promedio de edad de los usuarios
+        - Métrica actual: 25
+        - Métrica deseada: 23
+
+<br>
+
+- Creemos que nuestra aplicación será intuitiva y fácil de usar, permitiendo a los usuarios navegar y acceder a la información que necesitan sin complicaciones. Sabremos que hemos tenido éxito cuando más del 90% de los usuarios expresen su satisfacción en las encuestas.
+    **Métricas:**
+    1. Usuarios satisfechos por mes
+        - Métrica actual: 60
+        - Métrica deseada: 200
+    2. Nuevos usuarios por mes
+        - Métrica actual: 30
+        - Métrica deseada: 75
 
 #### 1.2.2.4. Lean UX Canvas
 
-
-
 <div align="center">
-    <img src=""/>
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1279277386499883098/Lean_UX_Canvas_Template_3.jpg?ex=66d9ca28&is=66d878a8&hm=2e962e582f8c550629c765677c3fb25f0e8fdf612471ff5a012b40c581cdb34c&"/>
 </div>
 
 ## 1.3. Segmentos objetivos
