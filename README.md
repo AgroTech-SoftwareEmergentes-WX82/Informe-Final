@@ -473,6 +473,120 @@ Es una plataforma en línea que ofrece una amplia variedad de productos para la 
 
 ### 2.1.1. Análisis competitivo
 
+<table>
+   <tr>
+        <th colspan="6" style="text-align: center;">Competitive Analysis Landscape</th>
+    </tr>
+    <tr>
+        <td colspan="2">¿Por qué llevar a cabo este análisis?</td>
+        <td colspan="4" style="text-align: left;">Este análisis tiene como objetivo identificar a nuestros competidores potenciales y desarrollar estrategias para diferenciarnos en el mercado.</td>
+    </tr>
+    <tr>
+        <th colspan="2">Nuestro Producto / Competidores</th>
+        <td>AgroTech</td>
+        <td>Hidroponika</td>
+        <td>Intagri</td>
+        <td>Mundo hidroponía</td>
+    </tr>
+    <tr>
+        <th rowspan="2">Perfil</th>
+        <td colspan="1">Overview
+        </td>
+        <td>Plataforma web que ofrece información sobre hidroponía, actualización diaria sobre temas relacionados y cursos interactivos para aprender técnicas y materiales.	</td>
+        <td>Página web con una amplia gama de productos y servicios de calidad relacionados con la hidroponía, además de cursos introductorios.	</td>
+        <td>Portal web que ofrece información detallada sobre agricultura, incluyendo cursos y capacitaciones presenciales y virtuales.	</td>
+        <td>Plataforma en línea que ofrece una variedad de productos para la hidroponía, desde nutrientes hasta huertos prefabricados.
+</td>
+    </tr>
+    <tr>
+        <td colspan="1">Ventaja Competitiva</td>
+        <td>Diversificación de productos adaptados a diferentes presupuestos y regiones de Perú, además de un servicio al cliente personalizado.	</td>
+        <td>Amplia variedad de productos, packs y soluciones para la hidroponía, con una interfaz sólida que destaca los beneficios de sus servicios.	</td>
+        <td>Destaca por su extenso catálogo de cursos sobre agricultura, atrayendo a diversos usuarios interesados en aprender.	</td>
+        <td>Ofrece una amplia gama de semillas, nutrientes y huertos hidropónicos, convirtiéndose en un destino popular para los entusiastas de la hidroponía.
+</td>
+    </tr>
+    <tr>
+        <th rowspan="2">Perfil de Marketing</th>
+        <td colspan="1">Mercado Objetivo
+        </td>
+        <td>Personas interesadas en iniciarse en la hidroponía o mejorar sus cultivos en hogares o espacios alternativos en Perú.	</td>
+        <td>Público en general interesado en iniciarse en la hidroponía o mejorar sus conocimientos y suministros para cultivos en Perú.	</td>
+        <td>Individuos interesados en profundizar en temas agrícolas, dispuestos a asistir a cursos presenciales o virtuales.	</td>
+        <td>Usuarios dedicados a la hidroponía en busca de suministros y productos de calidad.
+</td>
+    </tr>
+    <tr>
+        <td colspan="1">Estrategias de Marketing</td>
+        <td>Uso de redes sociales para publicidad y promoción.	</td>
+        <td>Publicidad en redes sociales y colaboraciones con empresas aliadas para alcanzar un mayor público.	</td>
+        <td>Publicidad en redes sociales y participación en eventos agrícolas para promover sus cursos.	</td>
+        <td>Campañas publicitarias en redes sociales y participación en ferias de jardinería para atraer clientes.
+</td>
+    </tr>
+    <tr>
+        <th rowspan="3">Perfil de Producto</th>
+        <td colspan="1">Productos & Servicios
+        </td>
+        <td>Información detallada sobre hidroponía, cursos interactivos y comunidades para compartir experiencias.	</td>
+        <td>Amplio catálogo de productos, desde nutrientes hasta huertos hidropónicos de diferentes tamaños y para diversas plantas.	</td>
+        <td>Cursos y capacitaciones presenciales y virtuales sobre agricultura y métodos de cultivo.	</td>
+        <td>Variedad de productos para hidroponía, incluyendo semillas, nutrientes y huertos prefabricados.
+</td>
+    </tr>
+    <tr>
+        <td colspan="1">Precios y Costos</td>
+        <td>Precios accesibles para cursos, mostrados en la pantalla de compra.	</td>
+        <td>Variedad de precios para productos, desde soluciones económicas hasta huertos más costosos.	</td>
+        <td>Costos variables según el tipo de curso, desde cursos básicos hasta diplomados internacionales.	</td>
+        <td>Precios variados para productos, dependiendo de la calidad y tamaño del huerto.
+</td>
+    </tr>
+    <tr>
+        <td colspan="1">Canales de Dsitribución</td>
+        <td>Página web con envíos a todo el Perú a través de distribuidores de courier.</td>
+        <td>Ventas en línea con envíos a todo Perú mediante empresas de courier.</td>
+        <td>Distribución de cursos presenciales y virtuales, así como venta de productsos a través e la web.</td>
+        <td>Ventas en línea con envío nacional de Hidroponía.</td>
+    </tr>
+    <tr>
+        <th rowspan="4">Análisis SWOT</th>
+        <td colspan="1">Fortaleza
+        </td>
+        <td>Validación de información por especialistas y comunicación continua con clientes.	</td>
+        <td>Amplia oferta de productos y cursos, así como variedad en capacitaciones presenciales.	</td>
+        <td>Reconocimiento por la oferta de una amplia variedad de cursos y capacitaciones, así como prestigio por eventos presenciales.</td>
+        <td>Variedad de productos y servicios que satisfacen las necesidades de los clientes en hidroponía.
+    </td>
+    </tr>
+    <tr>
+        <td colspan="1">Debilidades</td>
+        <td>Falta de reconocimiento como startup nueva y posible demora en la comunicación con clientes.</td>
+        <td>Dificultad para enfocarse en temas específicos debido al amplio catálogo de cursos.	</td>
+        <td>Posible dificultad para asesorar a clientes sobre productos más adecuados para sus necesidades específicas.	</td>
+        <td>Dependencia del mercado en línea y posibles limitaciones logísticas en envíos.
+    </td>
+    </tr>
+    <tr>
+        <td colspan="1">Oportunidades</td>
+        <td>Ausencia de información especializada en hidroponía, así como carencia de plataformas de alcance nacional.</td>
+        <td>Mercado en crecimiento y demanda creciente de productos y cursos relacionados con la hidroponía.</td>
+        <td>Interés creciente en temas agrícolas y disponibilidad de participación en eventos presenciales.	</td>
+        <td>Creciente interés en la hidroponía y disponibilidad de compras en línea en el mercado peruano.
+    </td>
+    </tr>
+    <tr>
+        <td colspan="1">Amenazas</td>
+        <td>Desconfianza inicial por ser una nueva empresa y posibles dificultades económicas en el arranque.	</td>
+        <td>Limitaciones en comunicación directa con clientes y posibles restricciones presupuestarias de algunos usuarios.	</td>
+        <td>Competencia en oferta de cursos presenciales y limitaciones logísticas para algunos usuarios.	</td>
+        <td>Competencia en línea y posibles fluctuaciones en el mercado de productos para hidroponía.
+    </td>
+    </tr>
+</table>
+
+
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 ## 2.2. Entrevistas
