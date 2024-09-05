@@ -677,13 +677,31 @@ En esta sección, se presentan los escenarios refinados para los atributos de ca
 
 ## 4.3. Software Architecture
 
+En esta sección mostraremos los diagramas C4 donde se visualiza la arquitectura de nuestra solución.
+
 ### 4.3.1. Software Architecture System Landscape Diagram
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1279653231277899796/arqui1.png?ex=66d9d6b1&is=66d88531&hm=d30e990240f1d9a68c447304ca2eb132a9187a5a520b0e299c41c01176153e8b&"/>
+</div>
 
 ### 4.3.2. Software Architecture Context Level Diagrams
 
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1279653231835873370/arqui2.png?ex=66d9d6b1&is=66d88531&hm=df2ccead1e550866cf3a3aa8215377133b4ef0af560b42199d29e2f74c280334&"/>
+</div>
+
 ### 4.3.3. Software Architecture Container Level Diagrams
 
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1279653232519675934/arqui3.png?ex=66d9d6b1&is=66d88531&hm=c918493a09b3ced995b3f810d0a5913d293f84d5768147533a00854f475ec9ce&"/>
+</div>
+
 ### 4.3.4. Software Architecture Deployment Diagrams
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1279653230422392832/arqui4.png?ex=66d9d6b0&is=66d88530&hm=fec0f0fee9a5c869b9a218e9961d48af7034e78146600af9ebe6bd684f054803&"/>
+</div>
 
 # Conclusiones
 
