@@ -456,6 +456,21 @@ En esta sección, se presentarán hipótesis que ofrecen soluciones a las proble
 
 ## 2.1. Competidores
 
+Después de realizar un análisis en el mercado peruano, hemos identificado tres proyectos similares a AgroTech que consideramos como posibles competidores. Estos son:
+
+* **Hidroponika:** 
+
+Es una plataforma en línea que ofrece una amplia gama de productos y servicios de calidad relacionados con la hidroponía. Proporciona soluciones nutritivas para una variedad de plantas, así como recursos y herramientas para el establecimiento y mantenimiento de huertos hidropónicos en el hogar. Además, ofrece asesoramiento personalizado y una comunidad activa para entusiastas de la hidrocultura.
+
+* **Intagri:**
+
+Es un portal que brinda información detallada sobre diversos cultivos agrícolas, así como conferencias y cursos dirigidos por expertos en el campo de la agricultura. Su enfoque se centra en la educación y el asesoramiento para agricultores de todos los niveles de experiencia, proporcionando recursos prácticos y actualizados sobre técnicas de cultivo y gestión agrícola.
+
+* **Mundo Hidroponía:**
+
+Es una plataforma en línea que ofrece una amplia variedad de productos para la hidroponía, incluyendo nutrientes, sistemas de cultivo, semillas y más. Además de su tienda en línea, proporcionan servicios de envío para sus productos y recursos educativos para ayudar a los usuarios a comenzar y mantener sus propios proyectos de hidroponía en casa.
+  
+
 ### 2.1.1. Análisis competitivo
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
