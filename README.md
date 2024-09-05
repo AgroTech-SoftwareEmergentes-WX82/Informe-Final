@@ -589,6 +589,25 @@ Es una plataforma en línea que ofrece una amplia variedad de productos para la 
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+Debido a la amplia gama de opciones disponibles para los usuarios en busca de soluciones relacionadas con la hidroponía y con el fin de mantenernos competitivos en el mercado, hemos desarrollado las siguientes estrategias y tácticas:
+
+* **Liderazgo en costes:**
+
+Nos distinguiremos al ofrecer nuestro producto de manera gratuita, sin restricciones en sus funcionalidades principales. Además, brindaremos una variedad de cursos a precios asequibles, asegurando su accesibilidad para todos los usuarios. Nuestro enfoque principal será satisfacer a quienes buscan información e investigación sobre hidroponía.
+
+* **Estrategia de diferenciación:**
+
+Para sobresalir frente a la competencia, implementaremos características únicas y mejoradas en nuestra plataforma, que no se encuentran en otras aplicaciones. Esto incluirá un extenso catálogo de temas, opiniones y estudios avalados por especialistas en el campo. Asimismo, ofreceremos una amplia gama de cursos en línea impartidos por expertos, consolidando nuestra plataforma como una fuente confiable de información.
+
+* **Estrategia de enfoque:**
+
+Reconociendo la creciente demanda de servicios de gestión agrícola impulsada por el aumento del uso de tecnología, nos centraremos en proporcionar una plataforma web accesible desde dispositivos móviles y computadoras, permitiendo a los usuarios investigar y aprender sobre hidroponía desde la comodidad de sus hogares.
+
+* **Táctica de expansión:**
+
+Aunque nuestra aplicación se ofrece de forma gratuita, evitaremos la sobrecarga de anuncios para no comprometer la experiencia del usuario. En su lugar, planeamos expandir nuestra base de usuarios a través de calificaciones positivas y publicidad estratégica.
+
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
