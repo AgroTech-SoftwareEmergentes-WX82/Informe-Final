@@ -298,14 +298,15 @@ AgroTech Innovators es una startup enfocada en revolucionar la forma en que los 
         <td align="left">
         <b>Descripción de carrera</b>
         <br>
-        -
+        En la Ingeniería de Software uno consigue los instrumentos necesarios para poder desarrollar programas o aplicaciones. El camino para lograr aquello se basa en un proceso donde el ingeniero deberá analizar lo requerido, planificar el desarrollo del proceso y comprobar su funcionamiento correcto hasta que este se ejecute sin errores. Las estrategias usadas para simplificar y acelerar estos procesos serán clave en esta rama pues estas serán las soluciones innovadoras que el ingeniero deberá crear. 
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Conocimiento y habilidades</b>
         <br>
-        - 
+        Tengo experiencia desarrollando aplicaciones frontend y backend. Los lenguajes de programación usados fueron Angular, Js, HTML y CSS para el frontend y Java 17 con Spring boot para el lado backend y base de datos Oracle y PostgreSQL. Actualmente estoy         
+        desarrollando un proyecto fullstack para mi tesis aplicando las tecnologías mencionadas. Estoy interesado en mejorar mis habilidades técnicas sobre todo aplicando buenas prácticas de software para desarrollar productos de calidad.
         </td>
     </tr>
 </table>
