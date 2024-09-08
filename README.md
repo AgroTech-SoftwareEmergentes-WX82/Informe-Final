@@ -1270,6 +1270,15 @@ En esta sección mostraremos los diagramas C4 donde se visualiza la arquitectura
 
 # Bibliografía
 
+Arbaiza, C. (2022). Internet de las cosas (iot) en un sistema autónomo de riego por goteo y el estrés hídrico en las zonas agrícolas, Perú 2022. Recuperado de https://hdl.handle.net/20.500.12952/7071 [Consulta: 06/09/2024]
+<br>
+
+Belupú, C. (2023). Propuesta de una plataforma de agricultura inteligente basada en IoT para el monitoreo de las condiciones climáticas del cultivo de banano. Universidad de Piura. Recuperado de https://hdl.handle.net/11042/6143 [Consulta: 05/09/2024]
+<br>
+
+Castillo, M. (2021). LA AGRICULTURA PERUANA, Situación Post COVID-19 y Perspectivas. Recuperado de https://library.fes.de/pdf-files/bueros/peru/18971.pdf [Consulta: 06/09/2024]
+<br>
+
 # Anexos
 
 <div align="center">
