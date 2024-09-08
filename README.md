@@ -760,6 +760,16 @@ El Empathy Mapping es una herramienta clave para nuestro proyecto AgroTech, ayud
 
 ### 2.3.4. As-is Scenario Mapping
 
+En el As-is Scenario Mapping de nuestro proyecto AgroTech, analizamos cómo interactúan actualmente los usuarios, tanto principiantes como expertos en agricultura, con sus sistemas de gestión de cultivos. Este análisis nos permite identificar puntos de fricción y áreas donde nuestra solución puede agregar valor. Al comprender los desafíos actuales, como la falta de monitoreo en tiempo real o la necesidad de optimizar recursos, podemos diseñar un sistema más eficiente que se ajuste a las necesidades reales de los usuarios. Esto nos guiará en la creación de una plataforma que automatice procesos y facilite la toma de decisiones en el campo agrícola.
+
+**Segmento 1: Principiantes en agricultura**
+
+[![As-Is-Scenario-Mapping-Principiantes.png](https://i.postimg.cc/P5JjKG5S/As-Is-Scenario-Mapping-Principiantes.png)](https://postimg.cc/JGfv42JX)
+
+**Segmento 2: Expertos en agricultura**
+
+[![As-Is-Scenario-Mapping-Experto.png](https://i.postimg.cc/sgLRNnBs/As-Is-Scenario-Mapping-Experto.png)](https://postimg.cc/k2WZVvFp)
+
 ## 2.4. Ubiquitous Language
 
 # Capítulo III: Requirements Specification
