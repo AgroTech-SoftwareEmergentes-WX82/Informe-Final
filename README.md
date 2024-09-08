@@ -217,7 +217,9 @@ AgroTech Innovators es una startup enfocada en revolucionar la forma en que los 
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="" alt="Moreno Vergara, Johan Raúl" style="margin-bottom: 5px;" width="800"/>
+            <a href="https://postimg.cc/HJ2hzWN0">
+    <img src="https://i.postimg.cc/85Qg1jBY/8c97179d-30c3-47b9-831b-c220e6ae57dd.jpg" alt="Moreno Vergara, Johan Raúl" style="margin-bottom: 5px;" width="800"/>
+    </a>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
