@@ -876,11 +876,36 @@ En esta sección, se presentan los escenarios refinados para los atributos de ca
 
 ### 4.2.2. Candidate Context Discovery
 
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282134832922759240/image.png?ex=66de409d&is=66dcef1d&hm=4acea4ce1d785b35c651b850db94ac731a370a04466c2768b14133513529de24&"/>
+</div>
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282134947867394108/image.png?ex=66de40b8&is=66dcef38&hm=4cf9ca8183bbe38014d7165465b5d5fa0e250f0892d1418c72479e6fe7834663&"/>
+</div>
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282134948261793812/image.png?ex=66de40b8&is=66dcef38&hm=9f379fa5d8430c4ea058e0319987ed12c77f0bf36c68cbff91194b792d3fba36&"/>
+</div>
+
 ### 4.2.3. Domain Message Flows Modeling
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282135068269088809/image.png?ex=66de40d5&is=66dcef55&hm=9a3779d49a4706b5dd0e5645fe522d7346a1abfff53f8cb3aefa5acd8db741c3&"/>
+</div>
 
 ### 4.2.4. Bounded Context Canvases
 
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282135289434996796/image.png?ex=66de4109&is=66dcef89&hm=27077886af711b62ed46d0f4dbb10eb9230ce1835a2d669e3ccea126b0dfbb23&"/>
+</div>
+
 ### 4.2.5. Context Mapping
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282135499221368903/image.png?ex=66de413b&is=66dcefbb&hm=6b83e33cb817c1fe361c361964704a8fec56b28fd85f8567d80fb483331ca97f&"/>
+</div>
+
 
 ## 4.3. Software Architecture
 
