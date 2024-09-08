@@ -68,11 +68,11 @@ Septiembre del 2023
     - **Capítulo IV: Solution Software Design**
     
     <div align=center>
-        <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149369808740163625/image.png"/>      
+        <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282154329721143296/image.png?ex=66de52c5&is=66dd0145&hm=eedb0510e42e128864d9f033c15975a6e23f34c0e27ae77405a4ae1a09aba229&"/>      
     </div>
 
     <div align=center>
-        <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149370395296813166/image.png"/>
+        <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282154728792260668/image.png?ex=66de5324&is=66dd01a4&hm=a6af3754aaa5d0daa51ec828a5ba45a3de8aae2ca36f41af578f6a9e8176a69f&"/>
     </div>
 
 <br><br>
@@ -162,8 +162,8 @@ Septiembre del 2023
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | :------------------: | :-----------------: | :----------: |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Paolo Sebastián Checa Apolinario** <br> **TB1** <br> Informé a nuestro equipo sobre el tema del proyecto a desarrollar, llegando a un punto en común y entendiendo de forma satisfactoria lo que desarrollaremos en la solución. <br><br> **Carlos Jesus Onofre Ruiz** <br> **TB1** <br> En las reuniones del proyecto, presenté y discutí el propósito del diseño a nivel estratégico, centrándome en cómo las entradas clave, como las historias de usuario, los escenarios de atributos de calidad y las restricciones, influyen en nuestras decisiones. | |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Paolo Sebastián Checa Apolinario** <br> **TB1** <br> Realicé y definí la descripción de la startup, para tener clara la idea del proyecto. Además realicé la arquitectura del software, en la que nos basaremos para el próximo desarrollo e implementación de la solución. <br><br> **Carlos Jesus Onofre Ruiz** <br> **TB1** <br> Documenté de manera detallada y accesible todo el proceso de diseño estratégico, desde la definición del propósito hasta los refinamientos de los escenarios de atributos de calidad. Los reportes incluyeron explicaciones claras sobre cómo las historias de usuario y las restricciones guiaron nuestras decisiones arquitectónicas. | |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Paolo Sebastián Checa Apolinario** <br> **TB1** <br> Informé a nuestro equipo sobre el tema del proyecto a desarrollar, llegando a un punto en común y entendiendo de forma satisfactoria lo que desarrollaremos en la solución. <br><br> **Carlos Jesus Onofre Ruiz** <br> **TB1** <br> En las reuniones del proyecto, presenté y discutí el propósito del diseño a nivel estratégico, centrándome en cómo las entradas clave, como las historias de usuario, los escenarios de atributos de calidad y las restricciones, influyen en nuestras decisiones. <br><br> **Johan Raúl Moreno** <br> **TB1** <br> Luego de las reuniones acordamos repartirnos parte del documento donde yo me encargué de identificar, analizar y proponer estrategias frente a nuestros competidores y me aseguré que todos los miembros comprendan estos aspectos claves. Además me encargué junto a mis compañeros de elaborar el event storming. <br><br> **Wilfredo Futuro Illa** <br> **TB1** <br> Para esta entrega el equipo se reunió para definir el startup profile, problem statement, User Stories, etc. | **TB1** <br> La comunicación clara y objetiva entre los miembros del equipo permitió una adecuada alineación de ideas y la toma de decisiones estratégicas, facilitando la comprensión del proyecto y la colaboración entre diferentes especialidades y niveles jerárquicos, lo que contribuyó al éxito en el desarrollo de la solución. |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Paolo Sebastián Checa Apolinario** <br> **TB1** <br> Realicé y definí la descripción de la startup, para tener clara la idea del proyecto. Además realicé la arquitectura del software, en la que nos basaremos para el próximo desarrollo e implementación de la solución. <br><br> **Carlos Jesus Onofre Ruiz** <br> **TB1** <br> Documenté de manera detallada y accesible todo el proceso de diseño estratégico, desde la definición del propósito hasta los refinamientos de los escenarios de atributos de calidad. Los reportes incluyeron explicaciones claras sobre cómo las historias de usuario y las restricciones guiaron nuestras decisiones arquitectónicas. <br><br> **Johan Raúl Moreno Vergara** <br> **TB1** <br> Documenté el análisis de competidores, proporcionando un reporte claro sobre las estrategias a seguir para posicionar mejor nuestra solución. También participé en la redacción de las decisiones clave durante el event storming, asegurando que las ideas y resultados fueran comprensibles para los miembros de nuestro equipo y cualquier lector del trabajo. <br><br> **Wilfredo Futuro Illa** <br> **TB1** <br> Se documentó tanto en el word como en github las User Stories, product Backlog, Empathy mapping, etc. | **TB1** <br> Al generar reportes organizados y accesibles sobre la arquitectura del software, las estrategias de diseño y el análisis competitivo, se logró mantener una alineación eficaz entre todos los involucrados, independientemente de su especialidad o nivel jerárquico, garantizando así el desarrollo ordenado y coherente de la solución. |
 
 # Capítulo I: Introducción
 
@@ -319,7 +319,7 @@ AgroTech Innovators es una startup enfocada en revolucionar la forma en que los 
 Nuestro servicio se denomina “AgroTech” ya que hacemos referencia al crecimiento tanto de los cultivos que nuestros usuarios utilizarán en sus proyectos caseros, como al desarrollo personal que experimentarán al adquirir nuevos conocimientos y perfeccionar sus habilidades en el ámbito agrícola junto a nosotros.<br>
 
 **Descripción del Producto:**
-Ofrecemos un servicio innovador que permite a los usuarios gestionar y optimizar sus cultivos de manera sencilla y eficiente utilizando tecnología avanzada. A través de nuestra plataforma, los usuarios pueden monitorizar en tiempo real las condiciones de sus cultivos mediante dispositivos IoT, recibiendo datos sobre variables clave como humedad, luz y temperatura. Además, nuestra aplicación incluye un chatbot inteligente que responde a preguntas y proporciona recomendaciones personalizadas, facilitando el manejo de los cultivos desde un nivel básico hasta un nivel experto.<br>
+Ofrecemos un servicio innovador que permite a los usuarios gestionar y optimizar sus cultivos de manera sencilla y eficiente utilizando tecnología avanzada. A través de nuestra plataforma, los usuarios pueden monitorizar en tiempo real las condiciones de sus cultivos mediante dispositivos IoT, recibiendo datos sobre variables clave como humedad, luz y temperatura. Además, nuestra aplicación incluye un chatbot inteligente que responde a preguntas y proporciona recomendaciones personalizadas, facilitando el manejo de los cultivos desde un nivel básico hasta un nivel experto. El problema que resolveremos es la optimización de la producción de cultivos, ayudando a los usuarios a maximizar su rendimiento mediante el uso de tecnología, mejorando la eficiencia y el monitoreo de sus proyectos agrícolas.<br>
 
 **Monetización:**
 Nuestro servicio generará ingresos mediante la venta y suscripción a dispositivos IoT, que permitirán a los usuarios monitorizar y mejorar sus cultivos. Además, nuestros servicios funcionan de manera continua durante todo el día para garantizar que los usuarios puedan monitorear y continuar sus proyectos en cualquier momento. Esta combinación de productos y servicios garantiza un flujo constante de ingresos, al mismo tiempo que proporciona un valor añadido a nuestros usuarios.
@@ -402,7 +402,7 @@ Es esencial que nuestro producto sea fácil de usar, con una interfaz intuitiva 
 
 En esta sección, se presentarán hipótesis que ofrecen soluciones a las problemáticas mencionadas anteriormente dentro de nuestra aplicación. Estas hipótesis serán específicas y estarán acompañadas de métricas que permitirán evaluar el éxito de manera objetiva. Las métricas empleadas se basan en promedios generales de aplicaciones existentes.
 
-- ​​Creemos que nuestra aplicación será una herramienta valiosa para los agricultores que buscan mejorar la eficiencia de sus cultivos mediante tecnología IoT. Sabremos que hemos tenido éxito cuando más del 75% de las reseñas de los usuarios sean positivas.
+- ​​Creemos que nuestra aplicación será una herramienta valiosa para los agricultores que buscan mejorar la eficiencia de sus cultivos mediante tecnología IoT. Sabremos que hemos tenido éxito cuando más del 75% de las reseñas de los usuarios sean positivas.<br>
     **Métricas:**
     1. Número de reseñas mensuales
         - Métrica actual: 25
@@ -413,7 +413,7 @@ En esta sección, se presentarán hipótesis que ofrecen soluciones a las proble
 
 <br>
 
-- Creemos que la integración de dispositivos IoT para el monitoreo en tiempo real será crucial para la optimización de los cultivos. Sabremos que hemos tenido éxito cuando más del 80% de los usuarios utilicen esta función regularmente.
+- Creemos que la integración de dispositivos IoT para el monitoreo en tiempo real será crucial para la optimización de los cultivos. Sabremos que hemos tenido éxito cuando más del 80% de los usuarios utilicen esta función regularmente.<br>
     ​**​Métricas:**
     1. Satisfacción con el chatbot
         - Métrica actual: 70%
@@ -424,7 +424,7 @@ En esta sección, se presentarán hipótesis que ofrecen soluciones a las proble
 
 <br>
 
-- Creemos que nuestro chatbot impulsado por IA será un recurso clave para resolver dudas y ofrecer recomendaciones en tiempo real. Sabremos que hemos tenido éxito cuando más del 85% de los usuarios reporten que el chatbot ha sido útil.
+- Creemos que nuestro chatbot impulsado por IA será un recurso clave para resolver dudas y ofrecer recomendaciones en tiempo real. Sabremos que hemos tenido éxito cuando más del 85% de los usuarios reporten que el chatbot ha sido útil.<br>
     **Métricas:**
     1. Promedio de edad de los usuarios
         - Métrica actual: 25
@@ -432,7 +432,7 @@ En esta sección, se presentarán hipótesis que ofrecen soluciones a las proble
 
 <br>
 
-- Creemos que nuestra aplicación será intuitiva y fácil de usar, permitiendo a los usuarios navegar y acceder a la información que necesitan sin complicaciones. Sabremos que hemos tenido éxito cuando más del 90% de los usuarios expresen su satisfacción en las encuestas.
+- Creemos que nuestra aplicación será intuitiva y fácil de usar, permitiendo a los usuarios navegar y acceder a la información que necesitan sin complicaciones. Sabremos que hemos tenido éxito cuando más del 90% de los usuarios expresen su satisfacción en las encuestas.<br>
     **Métricas:**
     1. Usuarios satisfechos por mes
         - Métrica actual: 60
@@ -611,13 +611,117 @@ Reconociendo la creciente demanda de servicios de gestión agrícola impulsada p
 Aunque nuestra aplicación se ofrece de forma gratuita, evitaremos la sobrecarga de anuncios para no comprometer la experiencia del usuario. En su lugar, planeamos expandir nuestra base de usuarios a través de calificaciones positivas y publicidad estratégica.
 
 
-## 2.2. Entrevistas
-
-### 2.2.1. Diseño de entrevistas
-
 ### 2.2.2. Registro de entrevistas
 
+**Segmento 1: Principiantes en la agricultura**
+
+**Entrevista 1:**
+
+- Apellidos y nombre: Miguel Ybañez
+- Edad: 21 años
+- Ubicación: Lima
+- Evidencia de la reunión:
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282161502396088361/image.png?ex=66de5973&is=66dd07f3&hm=7967c792f7c53feeed8e42f7e1509dce57fb09eb18a6b043c36e10e2e11cd467&"/>
+</div>
+
+- Inicio: 00:06
+- Fin: 03:18
+- Enlace de Entrevista: [Entrevistas - Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EcJtHnth9C9Ls3Sq7QScadwBZdwewvvmoD5FX3d7AU5q7g?e=kTKEyC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Resumen de la entrevista: Miguel Ybañez mostró un gran interés en la agricultura sostenible y en aprender a cultivar sus propios alimentos, lo que está alineado con los objetivos de nuestro proyecto, que busca facilitar la gestión agrícola mediante tecnología IoT y un chatbot. Aunque no ha utilizado IoT por desconocimiento y costos, ve la propuesta como una solución viable para superar estos retos. Identificó la falta de experiencia en monitoreo de cultivos como un desafío, destacando que un sistema que proporcione alertas y recomendaciones en tiempo real mejoraría la salud de sus plantas. Además, considera valiosa la interacción con una comunidad de agricultores para compartir experiencias y aprender. Las funcionalidades clave que resaltó como necesarias son las alertas automáticas, un dashboard sencillo, recomendaciones personalizadas y un chatbot que coinciden perfectamente con los pilares de nuestro proyecto, validando su enfoque y utilidad para usuarios principiantes.
+<br>
+
+**Entrevista 2:**
+
+- Apellidos y nombre: Angel Luis Ramos Orosco
+- Edad: 25 años
+- Ubicación: Miraflores
+- Evidencia de la reunión:
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282162253533020202/image.png?ex=66de5a26&is=66dd08a6&hm=21cebf972b0b45c0d2308ec4ccb05eced858edd5b7f809ec77315edc43e5d6f5&"/>
+</div>
+
+- Inicio: 03:19
+- Fin: 08:02 
+- Enlace de Entrevista: [Entrevistas - Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EcJtHnth9C9Ls3Sq7QScadwBZdwewvvmoD5FX3d7AU5q7g?e=kTKEyC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Resumen de la entrevista: Angel ha iniciado sus actividades en un terreno agrícola y, aunque aún es nuevo en este ámbito, se encuentra motivado para expandir sus conocimientos. Al abordar el tema de la tecnología IoT, indicó que, si bien no ha implementado esta tecnología, le resulta interesante explorar su aplicación en la agricultura. Considera que nuestro proyecto podría representar una solución adecuada para sus necesidades. Además, manifestó su interés en contar con un chatbot que le permita consultar directamente sus dudas con expertos en el área.
+<br>
+
+**Entrevista 3:**
+
+- Apellidos y nombre: Jorge Enrique Gonzales Carrión
+- Edad: 22 años
+- Ubicación: Ahuac, Junín
+- Evidencia de la reunión:
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282082982873534524/image.png?ex=66de1053&is=66dcbed3&hm=712b041d776745079707aa954f50cf1d41243017e707556c00082bc2aa53551c&"/>
+</div>
+
+- Inicio: 08:03
+- Fin: 13:19
+- Enlace de Entrevista: [Entrevistas - Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EcJtHnth9C9Ls3Sq7QScadwBZdwewvvmoD5FX3d7AU5q7g?e=kTKEyC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Resumen de la entrevista: Nuestro entrevistado fue Jorge Gonzales, un joven universitario que ayuda a su familia en las labores de agricultura en sus tiempos libres. Mencionó que iniciaría un proyecto personal porque está relacionado con su carrera, la cual es Ingeniería Ambiental, además se le facilitaría ya que su familia cuenta con el terreno necesario. Comentó que tiene conocimiento sobre algunas herramientas IOT, como aspersores inteligentes. Considera que tener una herramienta que le permita visualizar los datos de los cultivos en tiempo real le sería de mucha utilidad, y de esa manera poder mejorar la producción de la cosecha.
+<br><br>
+
+**Segmento 2: Expertos en la agricultura**
+
+**Entrevista 1:**
+
+- Apellidos y nombre: Luis Atmed Ramos Rios
+- Edad: 30 años
+- Ubicación: Piura
+- Evidencia de la reunión:
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282163388314550344/image.png?ex=66de5b35&is=66dd09b5&hm=a6972f50ae63ea739278f786c296130633548378c549034bf99a7bd12f2d9978&"/>
+</div>
+
+- Inicio: 13:23
+- Fin: 23:04
+- Enlace de Entrevista: [Entrevistas - Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EcJtHnth9C9Ls3Sq7QScadwBZdwewvvmoD5FX3d7AU5q7g?e=kTKEyC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Resumen de la entrevista: Luis, quien cultiva uvas en Piura y se dedica a la producción de vino en el marco de un negocio familiar, nos ha compartido que su proceso de cultivo sigue un enfoque tradicional, sin la implementación de maquinaria avanzada o tecnología IoT. Actualmente, solo disponen de un sistema para gestionar sus gastos. Sin embargo, nuestra propuesta le resultó sumamente atractiva, pues está consciente del crecimiento de la tecnología y su potencial para aumentar la eficiencia. Luis, debido a sus frecuentes viajes por razones de venta, está particularmente interesado en automatizar sus procesos de cultivo y contar con la capacidad de monitorear todo en tiempo real. Considera fundamental poder acceder a información sobre la humedad, temperatura y condiciones climáticas, lo cual contribuiría significativamente al éxito de su cosecha de uvas.
+<br>
+
+**Entrevista 2:**
+
+- Apellidos y nombre: Marjorie Huamani Atuncar
+- Edad: 25 años
+- Ubicación: Nazca
+- Evidencia de la reunión:
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282134223460892752/image.png?ex=66de400b&is=66dcee8b&hm=ae48120833517067e3a6a238fc71261de7446c7ac3c49a24f6c18f4372a306c4&"/>
+</div>
+
+- Inicio: 23:06
+- Fin: 29:15
+- Enlace de Entrevista: [Entrevistas - Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EcJtHnth9C9Ls3Sq7QScadwBZdwewvvmoD5FX3d7AU5q7g?e=kTKEyC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Resumen de la entrevista: Maryorie Huamani, junto con su familia, gestiona un fundo de 10 hectáreas en Nazca donde cultivan palta y arándanos. Han intentado integrar tecnología IoT para mejorar la gestión de sus cultivos, pero han encontrado varios desafíos. La implementación resultó ser complicada debido a la complejidad tecnológica y los altos costos, y no encontraron soluciones que se ajustaran a su presupuesto. Actualmente, gestionan sus cultivos de manera tradicional y buscan soluciones más accesibles y fáciles de usar que les permitan beneficiarse de los datos en tiempo real. La necesidad de una aplicación con monitoreo eficaz y soporte técnico, así como una comunidad agrícola activa, es fundamental para mejorar la gestión y eficiencia de sus prácticas agrícolas.
+<br>
+
+**Entrevista 3:**
+
+- Apellidos y nombre: Paolo Laguerre
+- Edad: 28 años
+- Ubicación: Ate, Lima
+- Evidencia de la reunión:
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282095795763675251/image.png?ex=66de1c41&is=66dccac1&hm=f1872e7b5d2da1bb053bd35126cd7f0cb3f129b5021660d165f7de9c568ed7b0&"/>
+</div>
+
+- Inicio: 29:15
+- Fin: 32:41
+- Enlace de Entrevista: [Entrevistas - Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EcJtHnth9C9Ls3Sq7QScadwBZdwewvvmoD5FX3d7AU5q7g?e=kTKEyC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Resumen de la entrevista: Nuestro entrevistado fue Paolo Laguerre, agricultor experto con varios años en el sector. Hace uso de tecnología IOT en sus cultivos, y mencionó que al principio fue complejo usar estas herramientas, pero con la práctica se volvió más manejable. Mencionó que uno de los principales desafíos para el cultivo es la falta de infraestructura, además la falta de capacitación para los iniciantes. Comentó que le sería de ayuda tener una herramienta que le permita tener los datos en tiempo real de sus cultivos, para poder reaccionar rápidamente en los distintos escenarios posibles. Le facilitaría que la interfaz sea sencilla y fácil de manejar para los usuarios.
+<br>
+
 ### 2.2.3. Análisis de entrevistas
+
+Las entrevistas realizadas revelan una clara demanda de soluciones tecnológicas accesibles y fáciles de usar en la agricultura, tanto por parte de principiantes como de expertos. Los principiantes, como Miguel, Ángel y Jorge, destacan su interés en tecnologías como IoT y la posibilidad de recibir alertas y recomendaciones en tiempo real, además de valorizar herramientas como chatbots para mejorar su aprendizaje. Sin embargo, su falta de experiencia y el desconocimiento de estas tecnologías representan desafíos importantes. Por otro lado, los expertos, como Luis, Maryorie y Paolo, reconocen el potencial de la tecnología IoT para optimizar sus cultivos, pero subrayan las dificultades en su implementación debido a costos, falta de infraestructura y capacitación. En general, tanto principiantes como expertos coinciden en la necesidad de herramientas intuitivas y económicas que permitan monitorear y automatizar sus procesos agrícolas, lo que valida el enfoque del proyecto hacia la inclusión tecnológica y la eficiencia en la gestión agrícola.
 
 ## 2.3. Needfinding
 
@@ -1044,12 +1148,12 @@ En el contexto de AgroTech Innovators, un proyecto que combina tecnologías avan
 **4.2.1.1. Unstructured Exploration (Exploración No Estructurada)**
 
 Identificaremos todos los eventos relevantes en "AgroTech Innovators", como "Sensor Activado" o "Respuesta del Chatbot Generada", mediante una lluvia de ideas con el equipo. Este paso nos permitirá capturar una visión completa de los eventos que ocurren en el sistema sin preocuparse aún por su secuencia.
-	
+
 **4.2.1.2. Timelines (Líneas de Tiempo)**
 
 Organizaremos los eventos identificados en una línea de tiempo que refleje el flujo lógico del sistema, comenzando por el "happy path". Esto nos permitirá visualizar cómo los eventos se desarrollan cronológicamente en la plataforma, desde la activación de sensores hasta la asistencia brindada por el chatbot.
-	
-	
+
+
 **4.2.1.3. Paint Points (Puntos de Dolor)**
 
 Revisaremos la línea de tiempo para identificar posibles cuellos de botella o problemas, como demoras en la respuesta del chatbot o fallos en la conectividad de los sensores. Esto nos ayudará a detectar y priorizar las áreas del sistema que necesitan optimización.
@@ -1153,6 +1257,21 @@ En esta sección mostraremos los diagramas C4 donde se visualiza la arquitectura
 
 # Conclusiones
 
+- A través de la descripción de la solución se establecen las bases para comprender cómo la tecnología IoT y los chatbots pueden optimizar la producción agrícola y resolver problemáticas clave para los usuarios, posicionando la propuesta de valor de manera sólida.
+<br>
+
+- La evaluación de competidores, junto con la creación de user personas y mapas de empatía, permite entender mejor las necesidades de los segmentos objetivo y ofrecer una solución diferenciada que no solo responde a esas demandas, sino que también se adapta a distintos niveles de experticia en el manejo de cultivos.
+<br>
+
+- La elaboración de historias de usuario, junto con el mapeo de escenarios "As-is" y "To-be", facilita la transición de los usuarios desde su estado actual hacia uno optimizado mediante el uso de la plataforma, reflejando una visión clara y detallada de cómo evolucionará su experiencia.
+<br>
+
+- El enfoque en el diseño estratégico del software, a través de prácticas como el "Attribute-Driven Design" y el "Domain-Driven Design", asegura que la solución no solo cumplirá con las funcionalidades principales, sino que también será adaptable, escalable y eficiente en términos de calidad del sistema.
+
 # Bibliografía
 
 # Anexos
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282169552515502142/logo.png?ex=66de60f2&is=66dd0f72&hm=6f8233e66a06b2ff475fc76e874da62b91f43a89349bbc448c871d72d9d12d0f&" alt="logo" style="margin-bottom: 5px;" width="500"/>
+<div>
