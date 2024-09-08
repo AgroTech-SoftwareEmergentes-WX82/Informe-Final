@@ -1148,6 +1148,11 @@ En esta sección, se presentan los escenarios refinados para los atributos de ca
 
 En el contexto de AgroTech Innovators, un proyecto que combina tecnologías avanzadas como IoT y chatbots inteligentes para optimizar las prácticas agrícolas, es crucial mapear y entender a fondo los procesos que sustentan la plataforma. Para lograrlo, utilizaremos la técnica de EventStorming, una metodología colaborativa que nos permitirá desglosar y visualizar de manera detallada todos los eventos clave dentro de nuestro dominio de negocio.
 
+[![Captura-de-pantalla-2024-09-07-221124.png](https://i.postimg.cc/3JvFRDfZ/Captura-de-pantalla-2024-09-07-221124.png)](https://postimg.cc/dLJyNDY7)
+
+[Puedes acceder al tablero de Miro aquí](https://miro.com/app/board/uXjVKhybrOs=/?share_link_id=120709295394)
+
+
 **4.2.1.1. Unstructured Exploration (Exploración No Estructurada)**
 
 Identificaremos todos los eventos relevantes en "AgroTech Innovators", como "Sensor Activado" o "Respuesta del Chatbot Generada", mediante una lluvia de ideas con el equipo. Este paso nos permitirá capturar una visión completa de los eventos que ocurren en el sistema sin preocuparse aún por su secuencia.
