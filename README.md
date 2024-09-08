@@ -634,6 +634,118 @@ El proyecto "AgroTech Innovators" depende en gran medida de la correcta identifi
 
 ### 2.3.2. User Task Matrix
 
+En esta Matriz de Tareas de Usuario, se detallan las tareas típicas realizadas por los dos segmentos de usuarios: principiantes interesados en mejorar sus cultivos mediante la agricultura sostenible y expertos que buscan optimizar sus procesos agrícolas utilizando tecnología IoT. Se evalúa la frecuencia y la severidad de cada tarea, lo que ayuda a priorizar y comprender las áreas clave en las que el producto AgroTech podría intervenir para satisfacer las necesidades y objetivos de ambos segmentos.
+
+**User Task Matrix para Principiantes en Agricultura**
+
+<table border="1">
+  <tr>
+    <th style-text:center>Tarea</th>
+    <th>Frecuencia</th>
+    <th>Severidad</th>
+  </tr>
+  <tr>
+    <td>Investigar sobre técnicas agrícolas y cultivos</td>
+    <td>Casi Siempre</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Buscar recursos en línea sobre el manejo de cultivos</td>
+    <td>Casi Siempre</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Consultar con amigos o expertos en agricultura</td>
+    <td>A veces</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Adquirir suministros y equipos agrícolas</td>
+    <td>A veces</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Monitorear la humedad y temperatura del suelo</td>
+    <td>Casi Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Ajustar el riego manualmente</td>
+    <td>Casi Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Solucionar problemas (plagas, nutrientes, etc.)</td>
+    <td>A veces</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Participar en una comunidad de aprendizaje</td>
+    <td>A veces</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Consultar al chatbot sobre preguntas básicas</td>
+    <td>A veces</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Evaluar el éxito de los cultivos</td>
+    <td>Casi Siempre</td>
+    <td>Media</td>
+  </tr>
+</table>
+
+**User Task Matrix para Expertos en Agricultura**
+
+<table border="1">
+  <tr>
+    <th>Tarea</th>
+    <th>Frecuencia</th>
+    <th>Severidad</th>
+  </tr>
+  <tr>
+    <td>Monitorear cultivos a través de dispositivos IoT</td>
+    <td>Casi Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Analizar los datos de temperatura y humedad</td>
+    <td>A veces</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Ajustar configuraciones del sistema de riego automático</td>
+    <td>A veces</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Implementar estrategias de cultivo basadas en datos</td>
+    <td>Casi Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Consultar al chatbot sobre preguntas avanzadas</td>
+    <td>A veces</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Gestionar varios cultivos y su monitoreo en paralelo</td>
+    <td>Casi Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Optimizar recursos (agua, fertilizantes) mediante datos</td>
+    <td>Casi Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Evaluar la producción agrícola en base a métricas históricas</td>
+    <td>Casi Siempre</td>
+    <td>Alta</td>
+  </tr>
+</table>
+
 ### 2.3.3. Empathy Mapping
 
 ### 2.3.4. As-is Scenario Mapping
