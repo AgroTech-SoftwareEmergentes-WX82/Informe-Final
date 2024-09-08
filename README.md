@@ -621,6 +621,17 @@ Aunque nuestra aplicación se ofrece de forma gratuita, evitaremos la sobrecarga
 
 ### 2.3.1. User Personas
 
+El proyecto "AgroTech Innovators" depende en gran medida de la correcta identificación de las User Personas, ya que estas permiten una comprensión profunda y específica de las necesidades, deseos, frustraciones y comportamientos clave de los usuarios. Estos perfiles detallados permiten diseñar una plataforma altamente personalizada y enfocada en brindar soluciones efectivas a los diferentes segmentos objetivos: desde proporcionar herramientas claras y accesibles para principiantes en la agricultura, hasta ofrecer funcionalidades avanzadas para expertos que desean optimizar y compartir su conocimiento.
+
+**User persona del segmento: Principiantes en agricultura**
+
+[![User-Persona-Principiantes.jpg](https://i.postimg.cc/xqr0htpX/Edit-org-design-07-09-19-28-1.jpg)](https://postimg.cc/ctmy8MSW)
+
+
+**User persona del segmento: Expertos en agricultura**
+
+[![User-Persona-Expertos.jpg](https://i.postimg.cc/3rk2MNbh/User-Persona-Expertos.jpg)](https://postimg.cc/XX0rdjb1)
+
 ### 2.3.2. User Task Matrix
 
 ### 2.3.3. Empathy Mapping
