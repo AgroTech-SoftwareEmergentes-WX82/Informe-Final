@@ -1020,6 +1020,9 @@ Presentamos el segmento de Impact Map, una herramienta estratégica que nos perm
 | 15 | US13 | Respuesta a preguntas frecuentes | Como agricultor, quiero que el chatbot responda a preguntas frecuentes sobre el uso de la plataforma. | 3 |
 | 16 | US16 | Notificación de alertas de Temperatura | Como agricultor, quiero recibir alertas si la temperatura de mis cultivos se desvía significativamente de los valores óptimos para poder regar los cultivos en caso la temperatura este muy caliente. | 5 |
 | 17 | US17 | Programación de Riego Automatizado | Como principiante y/o experto Quiero programar el sistema de riego automatizado Para optimizar el uso de agua y asegurar que mis cultivos reciban la cantidad adecuada de riego | 8 |
+| 18 | US18 | Generación de Reportes de Desempeño | Como experto Quiero generar reportes detallados sobre el desempeño de mis cultivos Para analizar su evolución y tomar decisiones informadas | 5 |
+| 19 | US019 | Asistencia en la Optimización de Recursos | Como principiante o experto Quiero recibir asistencia para optimizar el uso de recursos agrícolas Para reducir costos y mejorar la eficiencia de mi producción | 8 |
+| 20 | US020 | Registro de Actividades de Mantenimiento | Como principiante o experto Quiero registrar las actividades de mantenimiento realizadas en los cultivos Para llevar un control detallado y planificar futuros trabajos | 5 |
 
 # Capítulo IV: Strategic-Level Software Design
 
