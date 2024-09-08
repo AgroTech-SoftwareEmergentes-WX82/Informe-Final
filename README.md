@@ -279,7 +279,7 @@ AgroTech Innovators es una startup enfocada en revolucionar la forma en que los 
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="" alt="Wilfredo Futuri" style="margin-bottom: 5px;" width="800"/>
+            <img src=https://cdn.discordapp.com/attachments/1278210566904873047/1282134223146455151/perfil_linkeing.jpeg?ex=66de400b&is=66dcee8b&hm=0840c65c51c65b6529e8f1a09ada7df55738f839a30be0f20486d4815cca4599&"" alt="Wilfredo Futuri" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -633,6 +633,51 @@ Aunque nuestra aplicación se ofrece de forma gratuita, evitaremos la sobrecarga
 
 ## 3.1. To-Be Scenario Mapping
 
+Es esencial visualizar cómo serán las operaciones y las experiencias de los usuarios en el futuro deseado. En este contexto, presentamos el segmento de To-Be Scenario Map, que representa la visión optimizada y mejorada de nuestro proceso actual. Esta herramienta nos guiará hacia un futuro donde nuestras operaciones sean más eficientes, nuestras experiencias de usuario sean más satisfactorias y nuestro impacto en el mercado sea aún más significativo. A través de esta visualización del estado futuro deseado, delineamos los pasos clave, las interacciones y los resultados esperados que nos llevarán a alcanzar nuestras metas y superar las expectativas de nuestros usuarios y partes interesadas.
+
+####  Segmento 1: Principiantes en la agricultura
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282134223800635465/To-Be_Scenario_Mapping_principiante.png?ex=66de400b&is=66dcee8b&hm=e800b8c18f5bec94c717ffcbfcfbde700b6e0a13130c01a3339dd23613cbeab8&"/>
+</div>
+
+### Segmento 2: Expertos en la agricultura
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282134224144437300/To-Be_Scenario_Mapping_Avanzado.png?ex=66de400b&is=66dcee8b&hm=e8b7a61928332df02691482d711a3235a46e2b17cc52fc525437a77dea5957ca&"/>
+</div>
+
+**Requisitos Funcionales:**
+
+**1. Registro de Usuarios:** Permitir a los usuarios crear una cuenta proporcionando información básica como nombre, dirección de correo electrónico y contraseña.
+  
+**2. Inicio de sesión de Usuarios:** Permitir a los usuarios iniciar sesión en sus cuentas utilizando su dirección de correo electrónico y contraseña.
+  
+**3. Recuperación de contraseña:** Proporcionar a los usuarios la opción de restablecer su contraseña en caso de olvido.
+  
+**4. Gestión de Perfil:** Permitir a los usuarios ver y editar su perfil, actualizando sus datos inicialmente registrados.
+  
+**5. Visualización de Dispositivos IoT:** Permitir a los usuarios visualizar todos los dispositivos IOT que están conectados en sus cultivos.
+  
+**6. Visualizar un Dashboard de Análisis:** Permite a los usuarios tener un dashboard de los análisis de temperatura, humedad y luz de todos los cultivos.
+  
+**7. Chatbot con IA:** Permite a los usuarios interactuar con el chatbot para que pueda responder todas sus dudas respecto a la agricultura, y los dispositivos IOT.
+  
+**8. Participación en comunidades:** Permitir a los usuarios comunicarse entre ellos mediante las comunidades para compartir sus experiencias y/o soluciones en caso tengan alguna duda o recomendación.
+  
+**9. Reseñas de cursos:** Permitir a los usuarios publicar reseñas sobre los cursos adquiridos.
+  
+**10. Notificación de alerta:** Se enviará una notificación de alerta cuando la temperatura o humedad superen los rangos óptimos establecidos.
+  
+
+**Requisitos No Funcionales:**
+
+**1. Disponibilidad:** Asegurar que la aplicación esté disponible para su uso de lunes a viernes, desde las 08:00 hasta las 22:00 horas.
+**2. Usabilidad:** Diseñar una interfaz de usuario intuitiva y fácil de usar que permita a los usuarios disfrutar la aplicación sin dificultades ni confusiones, que se podrá aprender a usar en un tiempo no mayor a 40 minutos.
+**3. Compatibilidad:** Asegurar que la aplicación sea compatible con los navegadores web y dispositivos móviles actuales para garantizar una experiencia uniforme para todos los usuarios, específicamente: Edge, Chrome, Opera y Mozilla para los navegadores, y dispositivos móviles que utilicen Android y iOS.
+  
+**4. Escalabilidad:** Diseñar la aplicación de manera que pueda escalar fácilmente para manejar un aumento en el número de usuarios y la carga de trabajo sin comprometer el rendimiento o la disponibilidad.
+  
+**5. Eficiencia:** El sistema debe ser capaz de funcionar correctamente con hasta 100 usuarios conectados a la vez.
+
 ## 3.2. User Stories
 
 En este segmento presentamos los User Stories, una herramienta poderosa que nos ayudará a comprender y documentar los requisitos desde la perspectiva del usuario en forma de historias simples y centradas en el usuario. Cada User Story representa un objetivo específico que un usuario desea alcanzar al interactuar con nuestro producto o servicio, lo que nos permite enfocarnos en las funcionalidades y características que realmente importan para nuestros usuarios.
@@ -671,6 +716,19 @@ En este segmento presentamos los User Stories, una herramienta poderosa que nos 
 | US20 | Registro de Actividades de Mantenimiento | Como principiante o experto Quiero registrar las actividades de mantenimiento realizadas en los cultivos Para llevar un control detallado y planificar futuros trabajos | Escenario 1: Registro de nuevas actividades <br> Dado que el principiante o experto realiza una actividad de mantenimiento, Cuando accede a la sección de actividades, Entonces debe poder registrar los detalles de la actividad (p. ej., fecha, tipo de trabajo, duración). <br> Escenario 2: Consulta de historial de actividades Dado que el principiante o experto ha registrado varias actividades, Cuando accede al historial, Entonces debe poder visualizar un listado con las actividades realizadas y detalles de cada una. <br> Escenario 3: Programación de futuras actividades <br> Dado que el principiante o experto desea planificar actividades de mantenimiento, Cuando accede a la programación, Entonces debe poder establecer fechas y recordatorios para futuras tareas de mantenimiento. | EP002 |
 
 ## 3.3. Impact Mapping
+Presentamos el segmento de Impact Map, una herramienta estratégica que nos permite visualizar y comunicar el impacto deseado de nuestras iniciativas y proyectos, el cual nos ayuda a trazar un camino claro desde nuestras actividades y entregables hasta los resultados finales que buscamos lograr, identificando los principales impulsores de valor y las métricas clave que nos indicarán nuestro progreso hacia el éxito. A través de esta visualización estructurada y centrada en los resultados, podemos alinear eficazmente nuestros esfuerzos con nuestra visión estratégica, involucrar a las partes interesadas pertinentes y tomar decisiones informadas que impulsen el crecimiento y la innovación en nuestra organización.
+
+### Principiante en agricultura
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282134224933224470/image.png?ex=66de400c&is=66dcee8c&hm=16af77f820f794e87a7a1bf2fc5be91739644df9ff55edf2cdf6e05ea5e2ced8&"/>
+</div>
+
+### Experto en agricultura
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282134506328948838/image.png?ex=66de404f&is=66dceecf&hm=bcdc326737ac4e01336a67c3fb556d1a098ec69e380ba3f5561cf653ffcfb2f8&"/>
+</div>
 
 ## 3.4. Product Backlog
 
