@@ -1039,6 +1039,57 @@ En esta sección, se presentan los escenarios refinados para los atributos de ca
 
 ### 4.2.1. EventStorming
 
+En el contexto de AgroTech Innovators, un proyecto que combina tecnologías avanzadas como IoT y chatbots inteligentes para optimizar las prácticas agrícolas, es crucial mapear y entender a fondo los procesos que sustentan la plataforma. Para lograrlo, utilizaremos la técnica de EventStorming, una metodología colaborativa que nos permitirá desglosar y visualizar de manera detallada todos los eventos clave dentro de nuestro dominio de negocio.
+
+**4.2.1.1. Unstructured Exploration (Exploración No Estructurada)**
+
+Identificaremos todos los eventos relevantes en "AgroTech Innovators", como "Sensor Activado" o "Respuesta del Chatbot Generada", mediante una lluvia de ideas con el equipo. Este paso nos permitirá capturar una visión completa de los eventos que ocurren en el sistema sin preocuparse aún por su secuencia.
+	
+**4.2.1.2. Timelines (Líneas de Tiempo)**
+
+Organizaremos los eventos identificados en una línea de tiempo que refleje el flujo lógico del sistema, comenzando por el "happy path". Esto nos permitirá visualizar cómo los eventos se desarrollan cronológicamente en la plataforma, desde la activación de sensores hasta la asistencia brindada por el chatbot.
+	
+	
+**4.2.1.3. Paint Points (Puntos de Dolor)**
+
+Revisaremos la línea de tiempo para identificar posibles cuellos de botella o problemas, como demoras en la respuesta del chatbot o fallos en la conectividad de los sensores. Esto nos ayudará a detectar y priorizar las áreas del sistema que necesitan optimización.
+
+
+**4.2.1.4. Pivotal Points (Puntos Clave)**
+
+Identificamos eventos críticos que marcan un cambio importante en el proceso, como la transición de la recolección de datos a la generación de recomendaciones por el chatbot. Estos puntos nos permitirán dividir el flujo de trabajo en fases claramente definidas.
+
+
+**4.2.1.5. Commands (Comandos)**
+
+Definiremos los comandos necesarios para desencadenar los eventos en AgroTech Innovators, como "Enviar Datos" o "Generar Recomendación". Estos comandos representan las acciones que impulsan el flujo de eventos en el sistema.
+
+
+**4.2.1.6. Policies (Políticas)**
+
+Identificaremos políticas de automatización que permitan ejecutar comandos automáticamente cuando ocurren ciertos eventos, como "Enviar Alerta" después de detectar una anomalía en los datos del cultivo. Esto nos ayudará a automatizar procesos y mejorar la eficiencia operativa.
+
+
+**4.2.1.7. Read Models (Modelos de Lectura)**
+
+Definiremos los modelos de lectura que los usuarios utilizarán para tomar decisiones, como dashboards que muestran los datos de los sensores IoT o el historial de interacciones con el chatbot. Estos modelos asegurarán que los usuarios tengan acceso a la información necesaria de manera clara y precisa.
+
+
+**4.2.1.8. External Systems (Sistemas Externos)**
+
+Identificaremos e incorporaremos sistemas externos que interactúan con AgroTech Innovators, como APIs de terceros para obtener datos meteorológicos o bases de datos externas que almacenan información adicional sobre los cultivos. Esto nos permitirá entender las dependencias externas y su impacto en el sistema.
+
+
+**4.2.1.9. Aggregates (Agregados)**
+
+Agruparemos eventos y comandos relacionados en agregados que representen entidades clave dentro del sistema, como "Cultivo", "Sensor" o "Usuario". Esto nos permitirá organizar el sistema en unidades manejables y coherentes.
+
+
+**4.2.1.10. Bounded Contexts (Contextos Delimitados)**
+
+Identificaremos los contextos delimitados en el sistema, agrupando agregados relacionados. Esto nos permitirá definir límites claros dentro del sistema, como "Gestión de Sensores" o "Interacción con el Chatbot", asegurando la coherencia y facilitando el desarrollo y mantenimiento del sistema.
+
+
 ### 4.2.2. Candidate Context Discovery
 
 <div align="center">
