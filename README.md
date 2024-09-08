@@ -772,6 +772,26 @@ En el As-is Scenario Mapping de nuestro proyecto AgroTech, analizamos cómo inte
 
 ## 2.4. Ubiquitous Language
 
+En el Ubiquitous Language de AgroTech, definimos los términos clave del dominio agrícola para garantizar una comunicación clara y evitar malentendidos, facilitando el desarrollo y la alineación del equipo en cada etapa del proyecto.
+
+**1. Crop Monitoring (Monitoreo de Cultivos):**
+Sistema que permite observar y analizar en tiempo real el estado de los cultivos, utilizando datos como la humedad, temperatura y luz a través de sensores IoT.
+
+**2. Smart Irrigation (Riego Inteligente):**
+Sistema automatizado que ajusta el riego de los cultivos en función de datos en tiempo real, optimizando el uso de agua según las necesidades del suelo.
+
+**3. IoT Devices (Dispositivos IoT):**
+Sensores conectados que recopilan y transmiten datos sobre el estado de los cultivos y el entorno, permitiendo un monitoreo constante y en tiempo real.
+
+**4. Real-Time Alerts (Alertas en Tiempo Real):**
+Notificaciones automáticas enviadas al agricultor cuando se detectan condiciones críticas en el cultivo, como humedad baja o presencia de plagas.
+
+**5. Yield Optimization (Optimización del Rendimiento):**
+Estrategias para mejorar la producción de los cultivos mediante el uso eficiente de recursos y datos provenientes de dispositivos IoT.
+
+**6. Fertilization Recommendations (Recomendaciones de Fertilización):**
+Sugerencias generadas por el sistema para indicar cuándo y cuánto fertilizante aplicar para maximizar el crecimiento y la salud de los cultivos.
+
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
