@@ -173,6 +173,10 @@ Septiembre del 2023
 
 AgroTech Innovators es una startup enfocada en revolucionar la forma en que los agricultores y aficionados acceden y utilizan la tecnología para mejorar sus prácticas agrícolas. Nuestro objetivo es ofrecer una plataforma integral que combine la monitorización avanzada de cultivos mediante sensores IoT, proporcionando a los usuarios datos en tiempo real sobre variables críticas como humedad, luz, temperatura, y más. Además, incluimos un chatbot inteligente que puede responder a preguntas específicas de los usuarios, facilitando la toma de decisiones y optimizando los procesos de cultivo.
 
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282169552515502142/logo.png?ex=66de60f2&is=66dd0f72&hm=6f8233e66a06b2ff475fc76e874da62b91f43a89349bbc448c871d72d9d12d0f&" alt="logo" style="margin-bottom: 5px;" width="500"/>
+</div>
+
 - **Visión:** Aspiramos a ser líderes en la integración de la tecnología y la agricultura, promoviendo prácticas agrícolas más inteligentes, sostenibles y accesibles para todos, tanto en entornos rurales como urbanos.
 
 <br>
@@ -186,7 +190,7 @@ AgroTech Innovators es una startup enfocada en revolucionar la forma en que los 
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="4">
-            <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1280758357044625559/pic_1.jpg?ex=66d93eab&is=66d7ed2b&hm=4ad8b81bc567ac185862d08ae07857a5bf19cd009a0dcd36dc3de76d22d73786&" alt="Paolo Checa" style="margin-bottom: 5px;" width="800"/>
+            <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1280758357044625559/pic_1.jpg?ex=66dddbeb&is=66dc8a6b&hm=6c90255047d41a1561ff4a7ae4ca65a5151b81a93fa07819adffaa1c35e27752&" alt="Paolo Checa" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -250,7 +254,7 @@ AgroTech Innovators es una startup enfocada en revolucionar la forma en que los 
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="https://media.discordapp.net/attachments/1278210566904873047/1280956831396790272/1722901561737.jpg?ex=66d9f783&is=66d8a603&hm=32514db7cb939c3a2a83275e6fa5c6b9900789ef66f5442a2eb5eaf40ecdbbca&=&format=webp&width=473&height=473" alt="Onofre Ruiz, Carlos Jesus" style="margin-bottom: 5px;" width="800"/>
+            <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1280956831396790272/1722901561737.jpg?ex=66ddec03&is=66dc9a83&hm=ba01db12c44b55c56a74acc000517bea3f2c6b3f450c5dd28703186495cfd0d6&" alt="Onofre Ruiz, Carlos Jesus" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -444,7 +448,7 @@ En esta sección, se presentarán hipótesis que ofrecen soluciones a las proble
 #### 1.2.2.4. Lean UX Canvas
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1279277386499883098/Lean_UX_Canvas_Template_3.jpg?ex=66d9ca28&is=66d878a8&hm=2e962e582f8c550629c765677c3fb25f0e8fdf612471ff5a012b40c581cdb34c&"/>
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1279277386499883098/Lean_UX_Canvas_Template_3.jpg?ex=66ddbea8&is=66dc6d28&hm=3b3732339980158b244b976de2dc5db7c945e1802a1f7c18a4dd78130398f9e6&"/>
 </div>
 
 ## 1.3. Segmentos objetivos
@@ -1242,25 +1246,25 @@ En esta sección mostraremos los diagramas C4 donde se visualiza la arquitectura
 ### 4.3.1. Software Architecture System Landscape Diagram
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1279653231277899796/arqui1.png?ex=66d9d6b1&is=66d88531&hm=d30e990240f1d9a68c447304ca2eb132a9187a5a520b0e299c41c01176153e8b&"/>
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1279653231277899796/arqui1.png?ex=66ddcb31&is=66dc79b1&hm=ff1fb7fd6dee49382dc9d3f7f6937fa152e3536074803d478dd695eb7db2ba73&"/>
 </div>
 
 ### 4.3.2. Software Architecture Context Level Diagrams
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1279653231835873370/arqui2.png?ex=66d9d6b1&is=66d88531&hm=df2ccead1e550866cf3a3aa8215377133b4ef0af560b42199d29e2f74c280334&"/>
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1279653231835873370/arqui2.png?ex=66ddcb31&is=66dc79b1&hm=4f7bb1bd714d8e4f2586f2e81079b9618d18dac11038e0c811a3cf4683b7469c&"/>
 </div>
 
 ### 4.3.3. Software Architecture Container Level Diagrams
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1279653232519675934/arqui3.png?ex=66d9d6b1&is=66d88531&hm=c918493a09b3ced995b3f810d0a5913d293f84d5768147533a00854f475ec9ce&"/>
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1279653232519675934/arqui3.png?ex=66ddcb31&is=66dc79b1&hm=295b14be848a8d099966225960633e3a2682a1effa0397e7ebc9349329ffdd0e&"/>
 </div>
 
 ### 4.3.4. Software Architecture Deployment Diagrams
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1279653230422392832/arqui4.png?ex=66d9d6b0&is=66d88530&hm=fec0f0fee9a5c869b9a218e9961d48af7034e78146600af9ebe6bd684f054803&"/>
+    <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1279653230422392832/arqui4.png?ex=66ddcb30&is=66dc79b0&hm=b52e7f35e19f4a36f5d01dc65bd7f71592395ed4f5b941bb782bc53d7bbbecb9&"/>
 </div>
 
 # Conclusiones
@@ -1291,4 +1295,4 @@ Castillo, M. (2021). LA AGRICULTURA PERUANA, Situación Post COVID-19 y Perspect
 
 <div align="center">
     <img src="https://cdn.discordapp.com/attachments/1278210566904873047/1282169552515502142/logo.png?ex=66de60f2&is=66dd0f72&hm=6f8233e66a06b2ff475fc76e874da62b91f43a89349bbc448c871d72d9d12d0f&" alt="logo" style="margin-bottom: 5px;" width="500"/>
-<div>
+</div>
