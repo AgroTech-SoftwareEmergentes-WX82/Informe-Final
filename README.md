@@ -748,6 +748,16 @@ En esta Matriz de Tareas de Usuario, se detallan las tareas típicas realizadas 
 
 ### 2.3.3. Empathy Mapping
 
+El Empathy Mapping es una herramienta clave para nuestro proyecto AgroTech, ayudándonos a comprender profundamente las percepciones y experiencias tanto de principiantes como de expertos en la agricultura. Captura las necesidades, deseos, frustraciones y motivaciones de nuestros usuarios, proporcionando una visión clara sobre cómo diseñar soluciones tecnológicas efectivas y centradas en ellos.
+
+**Empathy Map para Principiantes en Agricultura**
+
+[![Empathy-Map-Principiantes.png](https://i.postimg.cc/8kxMTGq6/Empathy-Map-Principiantes.png)](https://postimg.cc/xqycPwjf)
+
+**Empathy Map para Expertos en Agricultura**
+
+[![Empathy-Map-Expertos.png](https://i.postimg.cc/DyssZDTY/Empathy-Map-Expertos.png)](https://postimg.cc/fJzkq8kx)
+
 ### 2.3.4. As-is Scenario Mapping
 
 ## 2.4. Ubiquitous Language
